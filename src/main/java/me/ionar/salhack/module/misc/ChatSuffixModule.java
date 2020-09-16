@@ -42,7 +42,7 @@ public final class ChatSuffixModule extends Module
         switch (mode.getValue()) {
             case standard: {
                 l_Message = " \u00b7 \ua731\u1d00\u029f\u029c\u1d00\u1d04\u1d0b\ua731\u1d0b\u026a\u1d05";
-                //  (dot) SalHackSkid
+                //  (dot) -SalHackSkid
                 break;
             }
             /*case custom: {
